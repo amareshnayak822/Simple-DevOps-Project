@@ -1,5 +1,5 @@
 # Setup Kubernetes (K8s) Cluster on AWS
-
+# installation and setup of kubernetes cluster using AWS CLI on a ubuntu ec2 setup.This ec2 is for installation purpose only,& not a part of cluster.
 
 1. Create Ubuntu EC2 instance
 1. install AWSCLI
